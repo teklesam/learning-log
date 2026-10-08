@@ -29,3 +29,4 @@ Each entry has four parts: **Did · Understood · Didn't understand · Next**.
 | Date | Entry |
 |---|---|
 | 2026-10-07 | [Day 0: setting the direction](2026/week-00/2026-10-07.md) |
+| 2026-10-08 | [Day 1: training loop from scratch (exercises)](2026/week-00/day01-training-loop/) |
